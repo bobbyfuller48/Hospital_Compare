@@ -1,3 +1,5 @@
+library(tidyverse)
+
 # Functions work on "outcome-of-care-measures.csv" file containing data from
 # Hospital Compare web site (http://hospitalcompare.hhs.gov) run by 
 # the U.S. Department of Health and Human Services. 
